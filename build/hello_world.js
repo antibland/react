@@ -1,7 +1,7 @@
 var MyComponent = React.createClass({displayName: "MyComponent",
   render: function(){
     return (
-        React.createElement("h1", null, "Hello, cruel world!")
+      React.createElement("h1", null, "Hello, cruel world!")
     );
   }
 });
